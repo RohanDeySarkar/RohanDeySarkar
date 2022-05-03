@@ -1,9 +1,12 @@
-👋👋 Hello, welcome to my Github 😃
+👋 Hello, welcome to my Github 🦊
 
 ![](https://github.com/RohanDeySarkar/RohanDeySarkar/blob/main/projects%20gif.gif?raw=true)
 
-I am a developer in the field of Data Science & AI and also build cool websites with React
+I am a junior developer in the field of Data Science & AI 🎯
+Also like to build dope websites with React 🌈
 
-My portfolio - https://rohandeysarkar.github.io/Portfolio/
+NETFLIX ❎ ANIME 💜
 
-Thank You For Visiting 🤩🤩
+My portfolio - https://rohandeysarkar.github.io/Portfolio/ 🚀
+
+Thank You For Visiting 🤩
