@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as a **Software Developer at Sony**
 
-- 🌱 I’m currently learning **System Design**
-
 - 📫 How to reach me **deysarkarrohan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
